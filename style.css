@@ -59,9 +59,11 @@ nav li {
         height: 250px;
         background-position: 0 -80px;
     }
+
     header .mobile {
         display: inline-block;
     }
+
     header .desktop {
         display: none;
     }
