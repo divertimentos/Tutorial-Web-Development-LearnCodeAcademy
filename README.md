@@ -1,4 +1,4 @@
-# tutorial-web-development-learncodeacademy
+# Web Development Tutorial For Beginners
 
 ## Screenshots
 
